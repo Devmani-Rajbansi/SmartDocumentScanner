@@ -8,10 +8,3 @@ Phase 1 : Basic setup
 Phase 2 : Basic GUI Development
     1. Upload an image                                                  : Done
     2. View the uploaded image in the application.                      : Done
-
-
-Phase 3 :
-    1. Preprocess the uploaded image for OCR using OpenCV.              : Done
-    2. Use Tesseract OCR (via pytesseract) to extract text.             : Done
-    3. Display the extracted text in the GUI.                           : Done
-    4. Handle potential errors and log them.                            : Done
