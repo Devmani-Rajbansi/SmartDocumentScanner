@@ -1,17 +1,15 @@
 Phase 1 : Basic setup
-
     1. Create the project director                                      : Done
     2. Create virtual environment with all the necessary installations  : Done
-    3. Github                                                           : Pending
+    3. Github                                                           : Done
     4. Azure Devops if possible                                         : Pending
 
 Phase 2 : Basic GUI Development
     1. Upload an image                                                  : Done
     2. View the uploaded image in the application.                      : Done
 
-
 Phase 3 :
-    1. Preprocess the uploaded image for OCR using OpenCV.              : Done
-    2. Use Tesseract OCR (via pytesseract) to extract text.             : Done
-    3. Display the extracted text in the GUI.                           : Done
-    4. Handle potential errors and log them.                            : Done
+    1. Preprocess the uploaded image for OCR using OpenCV.              : Pending
+    2. Use Tesseract OCR (via pytesseract) to extract text.             : Pending
+    3. Display the extracted text in the GUI.                           : Pending
+    4. Handle potential errors and log them.                            : Pending
